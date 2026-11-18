@@ -1,0 +1,5 @@
+numpy>=1.26
+opencv-python-headless>=4.9
+pydantic>=2.6,<3
+paddlepaddle>=3,<4
+paddleocr>=3,<4
